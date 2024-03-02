@@ -14,7 +14,7 @@ All the Notebooks below demand at least basic Python, NumPy, Pandas, ScikitLearn
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/hands-on-eda.git`
+1. Clone the repository: `git clone https://github.com/DeepNets-US/Hands-on-EDA.git`
 
 2. Explore the folders and files mentioned above to enhance your EDA skills.
 
