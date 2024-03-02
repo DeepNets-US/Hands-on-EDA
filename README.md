@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. 
 
 All the Notebooks below demand at least basic Python, NumPy, Pandas, ScikitLearn, Matplotlib, and Machine Learning knowledge. 
 
-> Basics of **NumPy**: A dedicated notebook on the basics of NumPy.
+1. Basics of **NumPy**: A dedicated notebook on the basics of [NumPy](https://github.com/DeepNets-US/Hands-on-EDA/blob/main/1.%20Numpy.ipynb).
 
 ## Getting Started
 
